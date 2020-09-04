@@ -10,7 +10,6 @@
 
 ### Connect with me:
 
-[<img align="left" alt="epeles | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 [<img align="left" alt="epeles | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="epeles | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="epeles | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
@@ -34,6 +33,5 @@
 
 </details>
 [twitter]: https://twitter.com/epeles
-[youtube]: https://youtube.com/epeles
 [instagram]: https://instagram.com/epeles
 [linkedin]: https://linkedin.com/in/epeles
