@@ -14,24 +14,6 @@
 [<img align="left" alt="epeles | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="epeles | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
-<br />
-
-<br />
-<br />
-
----
-
-<details>
-  <summary>:zap: Recent Github Activity</summary>
-  
-</details>
-
-<details>
-  <summary>:zap: Github Stats</summary>
-
-  <img align="left" alt="epeles's Github Stats" src="https://github-readme-stats.epeles.vercel.app/api?username=epeles&show_icons=true&hide_border=true" />
-
-</details>
 [twitter]: https://twitter.com/epeles
 [instagram]: https://instagram.com/epeles
 [linkedin]: https://linkedin.com/in/epeles
