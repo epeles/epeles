@@ -4,9 +4,9 @@
 
 ## I'm a Husband, Father, Investor and Developer!
 
-- 🌱 I’m currently looking for a cool job 
+- 🌱 I’m currently working :D 
 - 👯 I’m looking to collaborate with other content creator
-- ⚡ Fun fact: ?
+- ⚡ Fun fact: knows where and with who watched every movie on the cinema since 1987
 
 ### Connect with me:
 
