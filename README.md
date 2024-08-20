@@ -17,7 +17,7 @@
 [<img align="left" alt="epeles | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="epeles | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="epeles | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-[<img align="left" alt="epeles | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/website.svg" />][website]
+[<img align="left" alt="epeles | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/sitepoint.svg" />][website]
 
 [twitter]: https://twitter.com/epeles
 [instagram]: https://instagram.com/epeles
