@@ -2,7 +2,7 @@
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/epeles?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fepeles&screen_name=epeles)
 
-## QA Engineer
+## QA Engineer | SDET | QA Automation
 
 - Python
 - JavaScript
