@@ -1,27 +1,54 @@
-### Hi, I'm Eitan 👋
+<div align="center">
+  
+# 👋 Hey there, I'm Eitan
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/epeles?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fepeles&screen_name=epeles)
+[![Profile Views](https://komarev.com/ghpvc/?username=epeles&color=blueviolet&style=flat-square)](https://github.com/epeles)
 
-## QA Engineer | SDET | QA Automation
+### Senior SDET / QA Engineer & Test Automation Specialist
 
-- Python
-- JavaScript
-- Postman
-- Selenium
-- Cypress
-- Jenkins
-- Git
+</div>
 
-### Connect with me:
+## 🚀 About Me
+Passionate about software quality and test automation. I specialize in building robust test frameworks and implementing CI/CD pipelines for seamless software delivery.
 
-[<img align="left" alt="epeles | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="epeles | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
-[<img align="left" alt="epeles | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="epeles | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-[<img align="left" alt="epeles | Website" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/sitepoint.svg" />][website]
+## 💻 Tech Stack
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Cypress](https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white)
+![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-[twitter]: https://twitter.com/epeles
-[facebook]: https://www.facebook.com/epeles
-[instagram]: https://instagram.com/epeles
-[linkedin]: https://linkedin.com/in/epeles
-[website]: https://epeles.github.io/resume
+## 🌟 Featured Projects
+- 🤖 **Test Automation Framework** - Custom-built framework using Python & Selenium / Cypress & JavaScript
+- 🔌 **API Testing Suite** - Comprehensive API testing solution using Postman, Cypress & Python
+- 🔄 **CI/CD Pipeline** - Automated testing integration with Jenkins
+
+## 📈 GitHub Stats
+<div align="center">
+  
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=epeles&show_icons=true&theme=dracula)](https://github.com/epeles)
+
+</div>
+
+## 🤝 Let's Connect!
+<div align="center">
+  
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/epeles)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/epeles)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://epeles.github.io/resume)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/epeles)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/epeles)
+
+</div>
+
+## 📫 How to reach me
+- 💼 Professional inquiries: [LinkedIn](https://linkedin.com/in/epeles)
+- 🌐 Portfolio: [Website](https://epeles.github.io/resume)
+
+<div align="center">
+  
+### 💡 "Quality is not an act, it is a habit." - Aristotle
+
+</div>
