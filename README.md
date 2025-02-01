@@ -44,6 +44,7 @@ Passionate about software quality and test automation. I specialize in building 
 </div>
 
 ## 📫 How to reach me
+- 📧 Email: epeles@gmail.com
 - 💼 Professional inquiries: [LinkedIn](https://linkedin.com/in/epeles)
 - 🌐 Portfolio: [Website](https://epeles.github.io/resume)
 
