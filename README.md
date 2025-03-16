@@ -21,7 +21,7 @@ Passionate about software quality and test automation. I specialize in building 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ## 🌟 Featured Projects
-- 🤖 **Test Automation Framework** - Custom-built framework using Python & Selenium / Cypress & JavaScript
+- 🤖 **Test Automation Framework** - Custom-built framework using Python & Selenium / Cypress & JavaScript / Playwright & Typescript
 - 🔌 **API Testing Suite** - Comprehensive API testing solution using Postman, Cypress & Python
 - 🔄 **CI/CD Pipeline** - Automated testing integration with Jenkins
 
