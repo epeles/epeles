@@ -1,55 +1,68 @@
-<div align="center">
-  
-# 👋 Hey there, I'm Eitan
+# Eitan Peles
+ 
+**I test systems that don't give the same answer twice.**
+ 
+Senior SDET / QA Engineer, 18+ years. Most of my work now is on software that is
+probabilistic by design — LLM agents, AI pipelines, quantum circuits — where the
+usual tools of the trade quietly stop working. `assertEquals` has nothing to say
+about a system whose correct output is a distribution, and a threshold someone
+picked by feel is not a test. So I build the layer that does: deterministic
+protocol-level assertions where behaviour is pinned, calibrated statistical
+validation everywhere else.
+ 
+ 
+---
+ 
+## Projects
+ 
+### 🥃 [shotglass](https://github.com/epeles/shotglass)
+Statistical assertions for quantum circuit tests. Chi-square goodness of fit,
+exact binomial and equivalence tests, power analysis, and suite-wide false
+discovery rate control so a large statistical suite doesn't go flaky on its own
+alpha. Zero runtime dependencies — the incomplete gamma and beta functions, the
+central and non-central chi-square and the Wilson intervals are implemented from
+scratch and verified against SciPy. The library tests its own calibration.
+ 
+`Python` · `hypothesis testing` · `pytest plugin` · `Qiskit / Cirq compatible`
+ 
+### 🛰️ [FermiParadox](https://github.com/epeles/FermiParadox)
+Civilization simulator exploring why a universe this large looks this empty.
+ 
+`Rust` · `React` · `Three.js`
+ 
+### 🚀 [LightspeedJourney](https://github.com/epeles/LightspeedJourney)
+Relativistic travel simulator — time dilation and length contraction, rendered.
+ 
+`React` · `TypeScript` · `Three.js`
+ 
+---
+ 
+## What I work with
+ 
+**Testing** Playwright · pytest · Selenium · Cypress · Postman · TestRail
 
-[![Profile Views](https://komarev.com/ghpvc/?username=epeles&color=blueviolet&style=flat-square)](https://github.com/epeles)
+**Languages** Python · TypeScript / JavaScript · SQL
 
-### Senior SDET / QA Engineer & Test Automation Specialist
+**AI evaluation** LLM-as-a-judge calibration · agent trajectory testing · Azure OpenAI · semantic embeddings
 
-</div>
+**Infrastructure** GitLab CI · Jenkins · AWS (Lambda, S3, Athena) · Git · Linux
+ 
+---
+ 
+## Writing
+ 
+I publish on testing non-deterministic systems — what breaks when you point
+traditional QA at an LLM, and what to do instead.
+[LinkedIn →](https://linkedin.com/in/epeles)
+ 
+---
+ 
+## Contact
+ 
+English, Portuguese and Hebrew
+ 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/epeles)
+[![Email](https://img.shields.io/badge/epeles@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:epeles@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=github&logoColor=white)](https://epeles.github.io/resume)
+ 
 
-## 🚀 About Me
-Passionate about software quality and test automation. I specialize in building robust test frameworks and implementing CI/CD pipelines for seamless software delivery.
-
-## 💻 Tech Stack
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Cypress](https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white)
-![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
-## 🌟 Featured Projects
-- 🤖 **Test Automation Framework** - Custom-built framework using Python & Selenium / Cypress & JavaScript / Playwright & Typescript
-- 🔌 **API Testing Suite** - Comprehensive API testing solution using Postman, Cypress & Python
-- 🔄 **CI/CD Pipeline** - Automated testing integration with Jenkins
-
-## 📈 GitHub Stats
-<div align="center">
-  
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=epeles&show_icons=true&theme=dracula)](https://github.com/epeles)
-
-</div>
-
-## 🤝 Let's Connect!
-<div align="center">
-  
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/epeles)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/epeles)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://epeles.github.io/resume)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/epeles)
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/epeles)
-
-</div>
-
-## 📫 How to reach me
-- 📧 Email: epeles@gmail.com
-- 💼 Professional inquiries: [LinkedIn](https://linkedin.com/in/epeles)
-- 🌐 Portfolio: [Website](https://epeles.github.io/resume)
-
-<div align="center">
-  
-### 💡 "Quality is not an act, it is a habit." - Aristotle
-
-</div>
